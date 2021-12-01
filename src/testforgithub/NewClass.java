@@ -11,4 +11,5 @@ package testforgithub;
  */
 public class NewClass {
     //Another test
+    //Even more tests.
 }
